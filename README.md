@@ -20,4 +20,4 @@ Expertise in data management and statistical analysis; Strong organizational ski
 **Bold** and _Italic_ and `Code` text
 
 Dashboard:
-(https://chart-studio.plotly.com/~jessicabkr1/1.embed)
+[(https://chart-studio.plotly.com/~jessicabkr1/1.embed)]
