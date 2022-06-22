@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jessica Benkaroun Portfolio
 
 You can use the [editor on GitHub](https://github.com/j-bkr/j-bkr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
