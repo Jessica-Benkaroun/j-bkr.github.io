@@ -1,8 +1,6 @@
 ## Jessica Benkaroun Portfolio
 
-You can use the [editor on GitHub](https://github.com/j-bkr/j-bkr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Expertise in data management and statistical analysis; Strong organizational skills, and abilities to coordinate multiple tasks and projects; 	Excellent communication and written skills in English; Excellent work ethic, attention to detail, professionalism, thoroughness, and reliability.
 
 ### Markdown
 
