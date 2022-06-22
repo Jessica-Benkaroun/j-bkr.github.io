@@ -19,15 +19,7 @@ Expertise in data management and statistical analysis; Strong organizational ski
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://chart-studio.plotly.com/~jessicabkr1/1.embed
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/77789137/175014589-f8a0c180-96b1-4a7e-9af7-625df8e54839.png">
+) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j-bkr/j-bkr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
