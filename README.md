@@ -2,22 +2,20 @@
 
 Expertise in data management and statistical analysis; Strong organizational skills, and abilities to coordinate multiple tasks and projects; 	Excellent communication and written skills in English; Excellent work ethic, attention to detail, professionalism, thoroughness, and reliability.
 
-### Markdown
+### Data Analysis skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- skill 1
+- skill 2
 
-```markdown
-Syntax highlighted code block
+### Web development skills
 
-# Header 1
-## Header 2
-### Header 3
+- skill 1
+- skill 2
 
-- Bulleted
-- List
+### Web design skills
 
-1. Numbered
-2. List
+1. skill 1
+2. skill 2
 
 **Bold** and _Italic_ and `Code` text
 
