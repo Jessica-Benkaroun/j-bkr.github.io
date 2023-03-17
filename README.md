@@ -1,6 +1,6 @@
 ## Jessica Benkaroun Portfolio
 
-Expertise in data management and statistical analysis; Strong organizational skills, and abilities to coordinate multiple tasks and projects; 	Excellent communication and written skills in English; Excellent work ethic, attention to detail, professionalism, thoroughness, and reliability.
+Expertise in data management and statistical analysis; Strong organizational skills and abilities to coordinate multiple tasks and projects; Excellent communication and written skills; Excellent work ethic, attention to detail, professionalism, thoroughness, and reliability.
 
 ### Data Analysis skills
 
